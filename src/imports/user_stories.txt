@@ -1,0 +1,38 @@
+ID	ITEM
+ID001	As a staff member, I want to be able to submit a safety incident alert, so that help can be dispatched quickly regardless of location.
+ID002	As a safety manager, I want to be able to see new or in-progress safety incidents, so that I can review and respond to the incidents.
+ID003	As a safety manager, I want incident tickets to contain the incident type, location and timestamp, so that I have all the relevant data to respond to the incident. 
+ID004	As a safety manager, I want to be able to see incident statistics, response times, and system health, so that I can identify trends and determine areas for improvement.
+ID005	As a safety manager, I want to ensure that staff self-registration is not allowed so that it can remain secure
+ID006	As a safety manager, I want to be able to add or revoke access of my staff members so that I can keep it updated.
+ID007	As a staff member, I want to be able to login into the system so that I may interact with the system features. 
+ID008	As a school administrator, I want to see all records of event alerts, so that I can review all incidents for accountability and reference.
+ID009	As a school administrator, I want the system to log the type of each alert, so that incidents can be categorised for analysis and future review.
+ID010	As a school administrator, I want the system to track the full lifecycle status of an incident (triggered, acknowledged, resolved), so that response processes can be monitored and evaluated.
+ID011	As a school administrator, I want the system to record the stakeholders involved in each alert event, including their actions (triggered, notified, acknowledged, resolved) and timestamps, so that responsibility, notification history, and response actions can be reviewed for accountability.
+ID012	As a staff member, I want to receive a text message as well as an email on my phone when a safety alert goes off, so that I know what is happening during a safety issue.
+ID013	As a school administrator, I want to get an email showing the important details like what the alert was,  where it happened, and when, so that I have a clear record which I can refer back later.
+ID014	As an IT administrator, I want to check whether each SMS or email was successfully sent and delivered, so that I can spot any failures and make sure nothing was missed.
+ID015	As an IT administrator, I want to send a test notification to a specific recipient without triggering a real alert, so that I can confirm the SMS and email are working correctly.
+ID016	As a school administrator, I want to assign which staff members receive notifications for each alert type, so that only the relevant people are contacted rather than everyone getting every alert.
+ID017	As a staff member, I want to be able to submit an alert even when the network is slow, so that a safety event is never lost due to connectivity issues.
+ID018	As a safety manager, I want failed alerts to be recorded by the system, so that issues can be investigated and resolved.
+ID019	As a safety manager, I want only authorised users or devices to be able to send alerts, so that false or accidental alerts are prevented.
+ID020	As a safety manager, I want high-priority events (i.e lockdowns or fire) to be processed immediately, so that critical alerts are never delayed behind a backlog of lower-priority submissions.
+ID021	As a safety manager, I want to identify locations with the highest number of incidents, so that we can deploy staff to high-risk areas
+ID022	As a safety manager, I want to track trends in behaviour or medical incidents, so that we can detect changes in incident patterns.
+ID023	As a safety manager, I want to identify repeated issues in incident handling, so that we can improve operational procedures.
+ID024	As a safety manager, I want the system to capture the severity level of each alert alongside its type and location, so that high-priority incidents can be distinguished from routine ones in reports and analytics.
+ID025	As a safety manager, I want each alert to record which device or interface was used to trigger it, so that I can identify whether staff are using the system correctly across different environments.
+ID026	As a safety manager, I want the system to flag any alert that remained unacknowledged beyond a defined time threshold, so that missed or ignored incidents are clearly visible for review.
+ID027	As a safety manager, I want the system to reject duplicate alert submissions within a short time window from the same source, so that accidental double-triggers do not create false data in the event log.
+ID028	As a safety manager, I want the system to archive resolved incidents after a defined retention period, so that the active database handles data load without permanently deleting historical records.
+ID029	      As a safety manager, I want to view and filter incident records (i.e. time, day, week, year), so that I can identify whether certain days consistently                      have higher incident rates.
+ID030	As a safety manager, I want to export a filtered incident report as a file, so that I can share a clean summary with leadership without giving them direct dashboard access.
+ID031	As a safety manager, I want the system to allow me to manually reassign an open incident to a different staff member, so that if the original responder is unavailable the incident can still be actioned without delay.
+ID032	As a school administrator, I want the system to allow me to mark certain incidents as requiring a follow-up review, so that unresolved concerns are not forgotten after an alert is closed.
+ID033	As a school administrator, I want the system to display a confirmation message to the staff member who triggered an alert, so that they know their alert was successfully received and is being actioned.
+ID034	As a safety manager, I want to be able to add a resolution note when closing an incident, so that the steps taken to resolve it are documented for future reference and training purposes.
+ID035	As a staff member, I want to see that my triggered alerts have been logged and actioned in the system, so that I feel confident the platform is accountable and my calls for help are being recorded and followed up.
+ID036	As a safety manager, I want high-priority emergency alerts such as fire, lockdown, or critical threat to automatically notify external services like the fire brigade, police, or ambulance through pre-configured contact details, so that emergency responders are contacted immediately without relying on a staff member to make that call manually.
+ID037	As a safety manager, I want high-priority emergencies to require reconfirmation or authentication, so that critical alerts are submitted intentionally and accurately.
